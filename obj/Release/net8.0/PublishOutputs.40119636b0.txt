@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\SimpleDotNetApp\out\SimpleDotNetApp.exe
+C:\Users\Administrator\Desktop\SimpleDotNetApp\out\appsettings.Development.json
+C:\Users\Administrator\Desktop\SimpleDotNetApp\out\appsettings.json
+C:\Users\Administrator\Desktop\SimpleDotNetApp\out\simpledotnetapp.runtimeconfig.json
+C:\Users\Administrator\Desktop\SimpleDotNetApp\out\SimpleDotNetApp.dll
+C:\Users\Administrator\Desktop\SimpleDotNetApp\out\SimpleDotNetApp.deps.json
+C:\Users\Administrator\Desktop\SimpleDotNetApp\out\SimpleDotNetApp.pdb
